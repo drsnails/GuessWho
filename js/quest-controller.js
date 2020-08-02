@@ -91,5 +91,5 @@ function onShowVictoryMsg() {
 
 function onClearMemory() {
     clearMemory()
-    init()   
+    onRestartGame()
 }
